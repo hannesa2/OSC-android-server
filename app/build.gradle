@@ -4,7 +4,7 @@ android {
     namespace "info.hannesa2.osc"
     defaultConfig {
         applicationId "info.hannesa2.osc"
-        minSdkVersion 21
+        minSdkVersion 23
         compileSdk 35
         targetSdkVersion 35
         versionCode 1
